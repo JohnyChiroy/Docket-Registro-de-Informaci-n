@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+  info_salida.cpp
+  ingresar.cpp
+  menu.cpp
+  pendiente.cpp
+  reparado.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  machupichu.vcxproj -> C:\C++\portafolio\machupichu\x64\Debug\machupichu.exe

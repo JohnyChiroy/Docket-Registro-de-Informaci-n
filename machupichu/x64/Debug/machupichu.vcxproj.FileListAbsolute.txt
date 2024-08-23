@@ -1,0 +1,32 @@
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+C:\Proyectos\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+E:\ConDat\Cfdtl\RecJC\Documents\117\2.Semestre\2.Algoritmos\C++\Proyecto Final\machupichu\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.vcxproj.AssemblyReference.cache
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.Form1.resources
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.info_salida.resources
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.ingresar.resources
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.menu.resources
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.pendiente.resources
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.reparado.resources
+C:\C++\portafolio\machupichu\machupichu\x64\Debug\machupichu.vcxproj.GenerateResource.cache

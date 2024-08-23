@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\portafolio\\machupichu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\info_salida.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|solutionrelative:machupichu\\info_salida.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\info_salida.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|solutionrelative:machupichu\\info_salida.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\ingresar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|solutionrelative:machupichu\\ingresar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|solutionrelative:machupichu\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{54421ECD-51CE-477C-9C18-651312C2A2EF}|machupichu\\machupichu.vcxproj|solutionrelative:machupichu\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "info_salida.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\info_salida.h",
+              "RelativeDocumentMoniker": "machupichu\\info_salida.h",
+              "ToolTip": "C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\info_salida.h",
+              "RelativeToolTip": "machupichu\\info_salida.h",
+              "ViewState": "AgIAAIoAAAAAAAAAAADwv6MAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T22:43:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\Form1.h",
+              "RelativeDocumentMoniker": "machupichu\\Form1.h",
+              "ToolTip": "E:\\ConDat\\Cfdtl\\RecJC\\Documents\\117\\2.Semestre\\2.Algoritmos\\C\u002B\u002B\\Proyecto Final\\machupichu\\machupichu\\machupichu\\Form1.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T22:41:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "info_salida.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\info_salida.h",
+              "RelativeDocumentMoniker": "machupichu\\info_salida.h",
+              "ToolTip": "E:\\ConDat\\Cfdtl\\RecJC\\Documents\\117\\2.Semestre\\2.Algoritmos\\C\u002B\u002B\\Proyecto Final\\machupichu\\machupichu\\machupichu\\info_salida.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T22:41:32.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ingresar.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\ingresar.h",
+              "RelativeDocumentMoniker": "machupichu\\ingresar.h",
+              "ToolTip": "E:\\ConDat\\Cfdtl\\RecJC\\Documents\\117\\2.Semestre\\2.Algoritmos\\C\u002B\u002B\\Proyecto Final\\machupichu\\machupichu\\machupichu\\ingresar.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T22:41:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\portafolio\\machupichu\\machupichu\\menu.h",
+              "RelativeDocumentMoniker": "machupichu\\menu.h",
+              "ToolTip": "E:\\ConDat\\Cfdtl\\RecJC\\Documents\\117\\2.Semestre\\2.Algoritmos\\C\u002B\u002B\\Proyecto Final\\machupichu\\machupichu\\machupichu\\menu.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T22:40:35.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
